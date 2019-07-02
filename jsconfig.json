@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./",
+        "paths": {
+            //"vue$/*": ["vue/dist/vue.common.js"],
+            //"src/*": ["src/*"],
+            //"assets/*": ["src/assets/*"],
+            //"components/*": ["src/components/*"],
+            "^/*":["src/*"]
+        }
+    }
+}
